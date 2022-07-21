@@ -2,7 +2,7 @@
 
 <p>A layout planning mod for Stardew Valley</p><br>
 
-For controls press the `U` key. Everything is explained there.
+For controls press the `U` key. Everything is explained there.<br>
 
 Screenshot of the mod in action:
 <details>
