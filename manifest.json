@@ -1,0 +1,10 @@
+{
+  "Name": "Crop PLanner",
+  "Author": "Orlaani",
+  "Version": "1.0.0",
+  "Description": "Help you planning your garden",
+  "UniqueID": "OrlaaniHUN.CropPlanner",
+  "EntryDll": "Crop-Planner.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

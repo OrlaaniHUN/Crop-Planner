@@ -1,0 +1,6 @@
+*
+!*/
+
+!.gitignore
+!ModEntry.cs
+!manifest.json
