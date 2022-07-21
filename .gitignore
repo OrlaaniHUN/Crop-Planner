@@ -4,3 +4,5 @@
 !.gitignore
 !ModEntry.cs
 !manifest.json
+!image.png
+!README.md
